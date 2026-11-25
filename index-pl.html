@@ -1,0 +1,764 @@
+<!doctype html>
+<html lang="pl"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Halina Arte Skroban | Polska artystka w Rzymie</title>
+
+<style>
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+    margin:0;
+    background:#f5efe5;
+    color:#30251e;
+    font-family:Arial,sans-serif;
+}
+header{
+    padding:24px 5%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:20px;
+    border-bottom:1px solid #856538;
+}
+.brand{
+    font-family:Georgia,serif;
+    font-size:26px;
+    letter-spacing:2px;
+}
+nav{
+    display:flex;
+    gap:22px;
+    flex-wrap:wrap;
+}
+nav a{
+    color:inherit;
+    text-decoration:none;
+    font-size:14px;
+}
+.hero{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    align-items:center;
+    min-height:80vh;
+    gap:50px;
+    padding:60px 7%;
+}
+.hero img{
+    width:100%;
+    height:70vh;
+    object-fit:contain;
+}
+h1,h2{
+    font-family:Georgia,serif;
+    font-weight:normal;
+}
+h1{
+    font-size:clamp(42px,6vw,90px);
+    line-height:1.05;
+    margin:22px 0;
+}
+h2{
+    font-size:clamp(30px,4vw,48px);
+}
+p{
+    line-height:1.8;
+    max-width:700px;
+}
+.eyebrow{
+    font-size:11px;
+    letter-spacing:4px;
+    color:#856538;
+}
+.button{
+    display:inline-block;
+    padding:15px 25px;
+    border:1px solid #856538;
+    color:inherit;
+    text-decoration:none;
+    margin-top:20px;
+}
+section{
+    padding:70px 7%;
+}
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:25px;
+}
+figure{
+    margin:0;
+    background:#fffaf2;
+}
+figure img{
+    width:100%;
+    height:340px;
+    object-fit:contain;
+    display:block;
+    transition:opacity .2s;
+}
+figure img:hover{opacity:.85}
+
+body.minimal .hero{
+    grid-template-columns:2fr 1fr;
+}
+body.minimal .hero img{
+    grid-column:1;
+    grid-row:1;
+}
+body.minimal .hero-copy{
+    grid-column:2;
+    grid-row:1;
+}
+body.minimal .gallery{
+    grid-template-columns:repeat(2,minmax(0,1fr));
+}
+
+body.immersive .hero{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    gap:25px;
+}
+body.immersive .hero img{
+    width:100%;
+    height:65vh;
+}
+body.immersive .hero p{
+    margin:auto;
+}
+footer{
+    border-top:1px solid #856538;
+    padding:35px;
+    text-align:center;
+    font-size:13px;
+}
+footer a{color:inherit}
+@media(max-width:850px){
+    .hero,body.minimal .hero{
+        display:flex;
+        flex-direction:column;
+        gap:25px;
+        padding:35px 6%;
+    }
+    .hero img{height:55vh}
+    .gallery,body.minimal .gallery{
+        grid-template-columns:repeat(2,minmax(0,1fr));
+    }
+    figure img{height:240px}
+}
+@media(max-width:500px){
+    .gallery,body.minimal .gallery{
+        grid-template-columns:1fr;
+    }
+}
+/* Italian Luxury V2 - Signature Edition */
+
+body {
+    background: #f7f2e9;
+}
+
+header {
+    padding: 22px 5%;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #f7f2e9f5;
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid #c6af88;
+}
+
+.brand {
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+nav a {
+    padding: 8px 0;
+    border-bottom: 1px solid transparent;
+    transition: border-color .2s;
+}
+
+nav a:hover {
+    border-color: #856538;
+}
+
+.hero {
+    max-width: 1700px;
+    margin: auto;
+    padding: 45px 7%;
+    gap: 65px;
+    min-height: 85vh;
+}
+
+.hero h1 {
+    font-size: clamp(44px, 5.5vw, 88px);
+    letter-spacing: -2px;
+}
+
+.hero-copy p {
+    color: #665344;
+    font-size: 17px;
+}
+
+.hero-artwork {
+    margin: 0;
+    background: transparent;
+    min-width: 0;
+}
+
+.hero-artwork img {
+    display: block;
+    width: 100%;
+    height: min(68vh, 750px);
+    object-fit: contain;
+}
+
+.art-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+    padding: 18px 0;
+}
+
+.art-controls button {
+    background: transparent;
+    color: #30251e;
+    border: 1px solid #b69b68;
+    width: 44px;
+    height: 44px;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+.art-controls button:hover {
+    background: #e8dcc7;
+}
+
+.art-controls button:disabled {
+    opacity: .4;
+    cursor: default;
+}
+
+.art-counter {
+    color: #856538;
+    font-size: 12px;
+    letter-spacing: 3px;
+}
+
+.button {
+    transition: background .25s, color .25s;
+}
+
+.button:hover {
+    background: #30251e;
+    color: white;
+}
+
+#paintings {
+    background: #fffaf2;
+    border-top: 1px solid #ddcfb9;
+}
+
+#paintings figure {
+    padding: 20px;
+    background: transparent;
+}
+
+#paintings figure img {
+    height: 440px;
+    object-fit: contain;
+}
+
+#about {
+    background: #eee3d2;
+}
+
+section {
+    scroll-margin-top: 115px;
+}
+
+a:focus-visible, button:focus-visible {
+    outline: 2px solid #856538;
+    outline-offset: 5px;
+}
+
+@media(max-width:850px) {
+    .hero {
+        gap: 25px;
+        padding: 35px 6%;
+    }
+
+    .hero-artwork {
+        width: 100%;
+    }
+
+    .hero-artwork img {
+        height: 55vh;
+    }
+
+    .brand {
+        font-size: 19px;
+    }
+
+    #paintings figure img {
+        height: 300px;
+    }
+}
+
+@media(prefers-reduced-motion:reduce) {
+    * {
+        scroll-behavior: auto !important;
+        transition: none !important;
+    }
+}
+
+body{background:#F7F2E9}
+
+.fine-preview{
+    background:#FFFAF2;
+    border-top:1px solid #B69B68;
+}
+
+.fine-grid{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:24px;
+}
+
+.fine-grid figure{
+    margin:0;
+    padding:12px;
+    background:transparent;
+}
+
+.fine-grid img{
+    width:100%;
+    height:340px;
+    object-fit:contain;
+}
+
+.fine-grid figcaption{
+    padding:12px 0;
+    font-family:Georgia,serif;
+    font-size:20px;
+}
+
+.fine-grid a{
+    color:#30251E;
+    text-underline-offset:4px;
+}
+
+@media(max-width:700px){
+    .fine-grid{grid-template-columns:1fr}
+    .fine-grid img{height:300px}
+}
+
+.expo-preview{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:30px;
+}
+
+.expo-preview img{
+    width:100%;
+    height:280px;
+    object-fit:contain;
+    background:#FFFAF2;
+}
+
+.expo-preview h3{
+    font:27px Georgia,serif;
+}
+
+.expo-preview a{color:#30251E}
+
+@media(max-width:750px){
+    .expo-preview{grid-template-columns:1fr}
+}
+
+.artist-preview{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:6%;
+    align-items:center;
+}
+
+.artist-preview img{
+    display:block;
+    width:100%;
+    height:430px;
+    object-fit:contain;
+}
+
+.artist-preview h3{
+    font:36px Georgia,serif;
+}
+
+@media(max-width:750px){
+    .artist-preview{
+        grid-template-columns:1fr;
+        gap:20px;
+    }
+
+    .artist-preview img{
+        height:320px;
+    }
+}
+
+.press-preview{
+    display:grid;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    gap:25px;
+    margin:35px 0;
+}
+
+.press-preview article{
+    padding:28px;
+    background:#FFFAF2;
+    border:1px solid #D8C8AB;
+}
+
+.press-preview h3{
+    font:28px Georgia,serif;
+}
+
+.press-preview a{
+    color:#856538;
+    text-underline-offset:5px;
+}
+
+@media(max-width:750px){
+    .press-preview{grid-template-columns:1fr}
+}
+</style>
+<style>
+.language-switch{
+    display:flex;
+    align-items:center;
+    gap:7px;
+    flex-wrap:wrap;
+}
+.language-switch a{
+    border:1px solid #B69B68;
+    padding:7px 12px;
+    font:13px Arial,sans-serif;
+    text-decoration:none;
+    color:#30251E;
+}
+.language-switch a[aria-current="true"]{
+    background:#30251E;
+    color:#F7F2E9;
+}
+.language-switch a:hover{
+    background:#EEE3D2;
+    color:#30251E;
+}</style><meta name="description" content="Odkryj malarstwo, wystawy i drogę artystyczną Haliny Skroban."><meta property="og:title" content="Halina Arte Skroban | Polska artystka w Rzymie"><meta property="og:description" content="Odkryj malarstwo, wystawy i drogę artystyczną Haliny Skroban."><meta property="og:type" content="website"><meta property="og:site_name" content="Halina Arte Skroban"><meta property="og:locale" content="pl_PL"><meta name="robots" content="noindex"></head>
+
+<body class="luxury">
+
+<header>
+    <div class="brand">HALINA ARTE SKROBAN</div>
+    <nav>
+        <a href="gallery-pl.html">Galeria</a>
+        <a href="exhibitions-pl.html">Wystawy</a>
+        <a href="artist-pl.html">O artystce</a>
+        <a href="press-pl.html">Prasa</a>
+        <a href="contact-pl.html">Kontakt</a>
+    </nav>
+<div class="language-switch" aria-label="Language / Lingua / Język"><a href="index-it.html" hreflang="it" lang="it">IT</a><a href="index-pl.html" hreflang="pl" lang="pl" aria-current="true">PL</a><a href="index.html" hreflang="en" lang="en">EN</a></div></header>
+
+<main>
+    <div class="hero">
+        <div class="hero-copy">
+            <span class="eyebrow">ZAMOŚĆ · ROMA</span>
+            <h1>Poezja koloru</h1>
+            <p>Between Zamość and Rome.
+               A journey through painting, imagination and expressive colour.</p>
+            <a class="button" href="#paintings">Odkryj kolekcję</a>
+        </div>
+        <figure class="hero-artwork">
+    <img src="../../site/assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg" alt="Selected visual reference">
+    <div class="art-controls">
+        <button id="art-prev" type="button" aria-label="Previous painting">←</button>
+
+        <span id="art-counter" class="art-counter" aria-live="polite">01</span>
+
+        <button id="art-next" type="button" aria-label="Next painting">→</button>
+    </div>
+</figure>
+    </div>
+
+    
+<section id="paintings" class="fine-preview">
+
+    <span class="eyebrow">Kolekcja</span>
+
+    <h2>Wybrane dzieła</h2>
+
+    <div class="fine-grid">
+
+    
+        <figure>
+            <a href="artwork-001-pl.html">
+                <img src="../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg" alt="Artwork 01" loading="lazy">
+            </a>
+            <figcaption>
+                <a href="artwork-001-pl.html">Artwork 01</a>
+            </figcaption>
+        </figure>
+    
+        <figure>
+            <a href="artwork-002-pl.html">
+                <img src="../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg" alt="Artwork 02" loading="lazy">
+            </a>
+            <figcaption>
+                <a href="artwork-002-pl.html">Artwork 02</a>
+            </figcaption>
+        </figure>
+    
+
+    </div>
+
+    <a class="button" href="gallery-pl.html">
+        Explore the complete gallery →
+    </a>
+
+</section>
+
+
+    
+<section id="about">
+
+    <span class="eyebrow">Artystka</span>
+
+    <h2>Pomiędzy Zamościem a Rzymem</h2>
+
+    <div class="artist-preview">
+
+        
+        <img src="../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg" alt="Selected artwork from the collection" loading="lazy">
+
+        <div>
+
+            <h3>Halina Skroban</h3>
+
+            <p>
+                Polish roots. Italian inspiration.
+                Discover the artistic journey, education
+                and creative philosophy behind her work.
+            </p>
+
+            <a class="button" href="artist-pl.html">
+                Meet the artist →
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+    
+<section id="exhibitions">
+
+    <span class="eyebrow">Podróż artystyczna</span>
+
+    <h2>Wystawy międzynarodowe</h2>
+
+    <div class="expo-preview">
+
+        
+        <article>
+
+            
+                <a href="exhibition-2025-sinfonia-pl.html">
+                    <img src="../../assets/exhibitions/gazzetta-italia-pl-34f755d485e6c7.jpg" alt="La Sinfonia dei Colori">
+                </a>
+
+            <p>2025 - ROMA</p>
+
+            <h3>La Sinfonia dei Colori</h3>
+
+            <a href="exhibition-2025-sinfonia-pl.html">Odkryj wystawę</a>
+
+        </article>
+        
+        <article>
+
+            
+                <a href="exhibition-2023-roma-pl.html">
+                    <img src="../../assets/exhibitions/italyreview-roma-2023-03a7acfbb1f752.jpg" alt="Roma Danza nel Blu">
+                </a>
+
+            <p>2023 - ROMA</p>
+
+            <h3>Roma Danza nel Blu</h3>
+
+            <a href="exhibition-2023-roma-pl.html">Odkryj wystawę</a>
+
+        </article>
+        
+        <article>
+
+            
+                <a href="exhibition-2022-sacrum-pl.html">
+                    <img src="../../assets/exhibitions/tvp-polonia-2022-0e79f033f77dea.jpg" alt="Donne, storia e storie tra sacrum e profanum">
+                </a>
+
+            <p>2022 - ROMA</p>
+
+            <h3>Donne, storia e storie tra sacrum e profanum</h3>
+
+            <a href="exhibition-2022-sacrum-pl.html">Odkryj wystawę</a>
+
+        </article>
+        
+
+    </div>
+
+    <a class="button" href="exhibitions-pl.html">
+        Explore all exhibitions →
+    </a>
+
+</section>
+
+    
+<section id="press">
+
+    <span class="eyebrow">Międzynarodowe uznanie</span>
+
+    <h2>Prasa i publikacje</h2>
+
+    <div class="press-preview">
+
+    
+        <article>
+
+            <span class="eyebrow">2025</span>
+
+            <h3>Gazzetta Italia</h3>
+
+            <p>La Sinfonia dei Colori</p>
+
+            <a href="https://www.gazzettaitalia.pl/la-sinfonia-dei-colori-evento-artistico-dellanno-a-roma/" target="_blank" rel="noopener noreferrer">Przeczytaj publikację</a>
+
+        </article>
+    
+        <article>
+
+            <span class="eyebrow">2025</span>
+
+            <h3>Polish Academy of Sciences</h3>
+
+            <p>Maria Pawlikowska-Jasnorzewska</p>
+
+            <a href="https://rzym.pan.pl/blog/2025/11/13/seminarium-literackie-maria-pawlikowska-jasnorzewska-1891-1945-czytana-dzisiaj-patronat-literacki-2025-roku/" target="_blank" rel="noopener noreferrer">Przeczytaj publikację</a>
+
+        </article>
+    
+        <article>
+
+            <span class="eyebrow">2025</span>
+
+            <h3>Polacy we Wloszech</h3>
+
+            <p>In conversation with Halina Skroban</p>
+
+            <a href="https://www.polacywewloszech.com/2025/11/03/halina-skroban-wywiad/" target="_blank" rel="noopener noreferrer">Przeczytaj publikację</a>
+
+        </article>
+    
+
+    </div>
+
+    <a class="button" href="press-pl.html">
+        Explore the press archive →
+    </a>
+
+</section>
+
+    <section id="posters">
+        <span class="eyebrow">HALINA ARTE</span>
+        <h2>Exhibition Posters</h2>
+        <div class="gallery">
+        
+            <figure>
+                <a href="../../site/assets/posters/halina-home-06df439cd52c3c.jpg" target="_blank" rel="noopener">
+                    <img src="../../site/assets/posters/halina-home-06df439cd52c3c.jpg" alt="Exhibition Posters reference photograph" loading="lazy">
+                </a>
+            </figure>
+        
+            <figure>
+                <a href="../../site/assets/posters/pan-jubileusz-poster-85398cab0db306.png" target="_blank" rel="noopener">
+                    <img src="../../site/assets/posters/pan-jubileusz-poster-85398cab0db306.png" alt="Exhibition Posters reference photograph" loading="lazy">
+                </a>
+            </figure>
+        
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Collector enquiries</h2>
+        <p>Exhibitions, collaborations and artwork enquiries.
+           Contact details to be confirmed.</p>
+    </section>
+</main>
+
+<footer>
+    Private design concept. Image rights subject to review.
+    <br><br>
+    <a href="../index.html">Return to design comparison</a>
+</footer>
+
+<script>
+(() => {
+    const hero = document.querySelector('.hero-artwork img');
+    const previous = document.querySelector('#art-prev');
+    const next = document.querySelector('#art-next');
+    const counter = document.querySelector('#art-counter');
+
+    if (!hero || !previous || !next || !counter) return;
+
+    const paintings = [
+        hero.src,
+        ...Array.from(
+            document.querySelectorAll('#paintings img')
+        ).map(img => img.src)
+    ];
+
+    const images = [...new Set(paintings)];
+
+    let current = 0;
+
+    function display() {
+        hero.src = images[current];
+
+        counter.textContent =
+            String(current + 1).padStart(2, '0') +
+            ' / ' +
+            String(images.length).padStart(2, '0');
+
+        previous.disabled = images.length < 2;
+        next.disabled = images.length < 2;
+    }
+
+    previous.addEventListener('click', () => {
+        current = (current - 1 + images.length) % images.length;
+        display();
+    });
+
+    next.addEventListener('click', () => {
+        current = (current + 1) % images.length;
+        display();
+    });
+
+    display();
+})();
+</script>
+
+
+</body></html>

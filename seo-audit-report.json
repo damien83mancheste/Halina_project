@@ -1,0 +1,1014 @@
+{
+  "pages": 33,
+  "missingTitles": 0,
+  "missingDescriptions": 0,
+  "headingReview": 0,
+  "imageReview": 105,
+  "translationReviewRequired": true,
+  "publicationApproved": false,
+  "finalDomainConfirmed": false,
+  "details": [
+    {
+      "page": "artist-it.html",
+      "language": "it",
+      "title": "Lartista | Halina Arte Skroban",
+      "description": "Scopri il percorso artistico di Halina Skroban tra Polonia e Italia.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 1,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "artist.html",
+        "it": "artist-it.html",
+        "pl": "artist-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artist-pl.html",
+      "language": "pl",
+      "title": "O artystce | Halina Arte Skroban",
+      "description": "Poznaj drogę artystyczną Haliny Skroban pomiędzy Polską a Włochami.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 1,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "artist.html",
+        "it": "artist-it.html",
+        "pl": "artist-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artist.html",
+      "language": "en",
+      "title": "The Artist | Halina Arte Skroban",
+      "description": "Discover the artistic journey of Halina Skroban between Poland and Italy.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 1,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "artist.html",
+        "it": "artist-it.html",
+        "pl": "artist-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artwork-001-it.html",
+      "language": "it",
+      "title": "Artwork 01 | Halina Arte Skroban",
+      "description": "Artwork 01  Scopri un dipinto della collezione di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "artwork-001.html",
+        "it": "artwork-001-it.html",
+        "pl": "artwork-001-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artwork-001-pl.html",
+      "language": "pl",
+      "title": "Artwork 01 | Halina Arte Skroban",
+      "description": "Artwork 01  Poznaj obraz z kolekcji Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "artwork-001.html",
+        "it": "artwork-001-it.html",
+        "pl": "artwork-001-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artwork-001.html",
+      "language": "en",
+      "title": "Artwork 01 | Halina Arte Skroban",
+      "description": "Artwork 01  Discover a selected painting from the Halina Skroban collection.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "artwork-001.html",
+        "it": "artwork-001-it.html",
+        "pl": "artwork-001-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artwork-002-it.html",
+      "language": "it",
+      "title": "Artwork 02 | Halina Arte Skroban",
+      "description": "Artwork 02  Scopri un dipinto della collezione di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "artwork-002.html",
+        "it": "artwork-002-it.html",
+        "pl": "artwork-002-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artwork-002-pl.html",
+      "language": "pl",
+      "title": "Artwork 02 | Halina Arte Skroban",
+      "description": "Artwork 02  Poznaj obraz z kolekcji Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "artwork-002.html",
+        "it": "artwork-002-it.html",
+        "pl": "artwork-002-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "artwork-002.html",
+      "language": "en",
+      "title": "Artwork 02 | Halina Arte Skroban",
+      "description": "Artwork 02  Discover a selected painting from the Halina Skroban collection.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "artwork-002.html",
+        "it": "artwork-002-it.html",
+        "pl": "artwork-002-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "contact-it.html",
+      "language": "it",
+      "title": "Contatti | Halina Arte Skroban",
+      "description": "Informazioni di contatto per collezionisti, gallerie e istituzioni culturali.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 0,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "contact.html",
+        "it": "contact-it.html",
+        "pl": "contact-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "contact-pl.html",
+      "language": "pl",
+      "title": "Kontakt dla kolekcjonerów | Halina Arte Skroban",
+      "description": "Informacje kontaktowe dla kolekcjonerów, galerii i instytucji kultury.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 0,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "contact.html",
+        "it": "contact-it.html",
+        "pl": "contact-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "contact.html",
+      "language": "en",
+      "title": "Art Collector Enquiries | Halina Arte Skroban",
+      "description": "Contact information for collectors, galleries and cultural institutions.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 0,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "contact.html",
+        "it": "contact-it.html",
+        "pl": "contact-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2022-sacrum-it.html",
+      "language": "it",
+      "title": "Donne, storia e storie tra sacrum e profanum | Halina Arte Skroban",
+      "description": "Donne, storia e storie tra sacrum e profanum  Scopri una mostra dal percorso artistico di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 18,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-0e79f033f77dea.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-2c036f4816f4b9.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 2"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-2c233541b2cf5e.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 3"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-498ccfd5e9adce.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 4"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-4b65678318f190.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 5"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-5292b9e087470f.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 6"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-5a8a24b4ba2526.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 7"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-6d547726863489.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 8"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-804bea0c785fa8.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 9"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-9652da9eabd988.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 10"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-98a8bd623cb1ff.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 11"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-a91a2c3f449884.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 12"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-b715f847199528.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 13"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-ba09f055145946.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 14"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-c46f82de0649b7.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 15"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-c6fc2c0531d9e4.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 16"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-f0a871333413cc.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 17"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-fda38e235c89a0.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 18"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2022-sacrum.html",
+        "it": "exhibition-2022-sacrum-it.html",
+        "pl": "exhibition-2022-sacrum-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2022-sacrum-pl.html",
+      "language": "pl",
+      "title": "Donne, storia e storie tra sacrum e profanum | Halina Arte Skroban",
+      "description": "Donne, storia e storie tra sacrum e profanum  Poznaj wystawę z dorobku artystycznego Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 18,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-0e79f033f77dea.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-2c036f4816f4b9.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 2"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-2c233541b2cf5e.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 3"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-498ccfd5e9adce.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 4"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-4b65678318f190.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 5"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-5292b9e087470f.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 6"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-5a8a24b4ba2526.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 7"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-6d547726863489.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 8"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-804bea0c785fa8.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 9"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-9652da9eabd988.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 10"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-98a8bd623cb1ff.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 11"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-a91a2c3f449884.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 12"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-b715f847199528.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 13"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-ba09f055145946.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 14"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-c46f82de0649b7.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 15"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-c6fc2c0531d9e4.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 16"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-f0a871333413cc.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 17"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-fda38e235c89a0.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 18"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2022-sacrum.html",
+        "it": "exhibition-2022-sacrum-it.html",
+        "pl": "exhibition-2022-sacrum-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2022-sacrum.html",
+      "language": "en",
+      "title": "Donne, storia e storie tra sacrum e profanum | Halina Arte Skroban",
+      "description": "Donne, storia e storie tra sacrum e profanum  Explore an exhibition from the artistic career of Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 18,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-0e79f033f77dea.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-2c036f4816f4b9.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 2"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-2c233541b2cf5e.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 3"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-498ccfd5e9adce.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 4"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-4b65678318f190.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 5"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-5292b9e087470f.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 6"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-5a8a24b4ba2526.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 7"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-6d547726863489.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 8"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-804bea0c785fa8.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 9"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-9652da9eabd988.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 10"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-98a8bd623cb1ff.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 11"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-a91a2c3f449884.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 12"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-b715f847199528.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 13"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-ba09f055145946.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 14"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-c46f82de0649b7.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 15"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-c6fc2c0531d9e4.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 16"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-f0a871333413cc.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 17"
+        },
+        {
+          "source": "../../assets/exhibitions/tvp-polonia-2022-fda38e235c89a0.jpg",
+          "alt": "Donne, storia e storie tra sacrum e profanum - reference image 18"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2022-sacrum.html",
+        "it": "exhibition-2022-sacrum-it.html",
+        "pl": "exhibition-2022-sacrum-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2023-roma-it.html",
+      "language": "it",
+      "title": "Roma Danza nel Blu | Halina Arte Skroban",
+      "description": "Roma Danza nel Blu  Scopri una mostra dal percorso artistico di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/italyreview-roma-2023-03a7acfbb1f752.jpg",
+          "alt": "Roma Danza nel Blu - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/italyreview-roma-2023-701a8afd8dc439.jpg",
+          "alt": "Roma Danza nel Blu - reference image 2"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2023-roma.html",
+        "it": "exhibition-2023-roma-it.html",
+        "pl": "exhibition-2023-roma-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2023-roma-pl.html",
+      "language": "pl",
+      "title": "Roma Danza nel Blu | Halina Arte Skroban",
+      "description": "Roma Danza nel Blu  Poznaj wystawę z dorobku artystycznego Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/italyreview-roma-2023-03a7acfbb1f752.jpg",
+          "alt": "Roma Danza nel Blu - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/italyreview-roma-2023-701a8afd8dc439.jpg",
+          "alt": "Roma Danza nel Blu - reference image 2"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2023-roma.html",
+        "it": "exhibition-2023-roma-it.html",
+        "pl": "exhibition-2023-roma-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2023-roma.html",
+      "language": "en",
+      "title": "Roma Danza nel Blu | Halina Arte Skroban",
+      "description": "Roma Danza nel Blu  Explore an exhibition from the artistic career of Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 2,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/italyreview-roma-2023-03a7acfbb1f752.jpg",
+          "alt": "Roma Danza nel Blu - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/italyreview-roma-2023-701a8afd8dc439.jpg",
+          "alt": "Roma Danza nel Blu - reference image 2"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2023-roma.html",
+        "it": "exhibition-2023-roma-it.html",
+        "pl": "exhibition-2023-roma-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2025-sinfonia-it.html",
+      "language": "it",
+      "title": "La Sinfonia dei Colori | Halina Arte Skroban",
+      "description": "La Sinfonia dei Colori  Scopri una mostra dal percorso artistico di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 5,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-34f755d485e6c7.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-3bdeffaa986903.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 2"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-b8b3eadcc1ca3a.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 3"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-cd79e61a6c10da.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 4"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-f146f42a75ac2d.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 5"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2025-sinfonia.html",
+        "it": "exhibition-2025-sinfonia-it.html",
+        "pl": "exhibition-2025-sinfonia-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2025-sinfonia-pl.html",
+      "language": "pl",
+      "title": "La Sinfonia dei Colori | Halina Arte Skroban",
+      "description": "La Sinfonia dei Colori  Poznaj wystawę z dorobku artystycznego Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 5,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-34f755d485e6c7.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-3bdeffaa986903.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 2"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-b8b3eadcc1ca3a.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 3"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-cd79e61a6c10da.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 4"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-f146f42a75ac2d.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 5"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2025-sinfonia.html",
+        "it": "exhibition-2025-sinfonia-it.html",
+        "pl": "exhibition-2025-sinfonia-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibition-2025-sinfonia.html",
+      "language": "en",
+      "title": "La Sinfonia dei Colori | Halina Arte Skroban",
+      "description": "La Sinfonia dei Colori  Explore an exhibition from the artistic career of Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 5,
+      "imagesForReview": [
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-34f755d485e6c7.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 1"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-3bdeffaa986903.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 2"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-b8b3eadcc1ca3a.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 3"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-cd79e61a6c10da.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 4"
+        },
+        {
+          "source": "../../assets/exhibitions/gazzetta-italia-pl-f146f42a75ac2d.jpg",
+          "alt": "La Sinfonia dei Colori - reference image 5"
+        }
+      ],
+      "alternates": {
+        "en": "exhibition-2025-sinfonia.html",
+        "it": "exhibition-2025-sinfonia-it.html",
+        "pl": "exhibition-2025-sinfonia-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibitions-it.html",
+      "language": "it",
+      "title": "Mostre internazionali | Halina Arte Skroban",
+      "description": "Scopri le mostre di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 3,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "exhibitions.html",
+        "it": "exhibitions-it.html",
+        "pl": "exhibitions-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibitions-pl.html",
+      "language": "pl",
+      "title": "Wystawy międzynarodowe | Halina Arte Skroban",
+      "description": "Poznaj wybrane wystawy Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 3,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "exhibitions.html",
+        "it": "exhibitions-it.html",
+        "pl": "exhibitions-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "exhibitions.html",
+      "language": "en",
+      "title": "International Exhibitions | Halina Arte Skroban",
+      "description": "Explore selected exhibitions from the career of Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 3,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "exhibitions.html",
+        "it": "exhibitions-it.html",
+        "pl": "exhibitions-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "gallery-it.html",
+      "language": "it",
+      "title": "Dipinti selezionati | Halina Arte Skroban",
+      "description": "Esplora una selezione dei dipinti di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 3,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "gallery.html",
+        "it": "gallery-it.html",
+        "pl": "gallery-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "gallery-pl.html",
+      "language": "pl",
+      "title": "Galeria obrazów | Halina Arte Skroban",
+      "description": "Poznaj wybrane obrazy Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 3,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "gallery.html",
+        "it": "gallery-it.html",
+        "pl": "gallery-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "gallery.html",
+      "language": "en",
+      "title": "Selected Paintings | Halina Arte Skroban",
+      "description": "Explore the selected paintings of Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 3,
+      "imagesForReview": [
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        },
+        {
+          "source": null,
+          "alt": ""
+        }
+      ],
+      "alternates": {
+        "en": "gallery.html",
+        "it": "gallery-it.html",
+        "pl": "gallery-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "index-it.html",
+      "language": "it",
+      "title": "Halina Arte Skroban | Artista contemporanea a Roma",
+      "description": "Scopri i dipinti, le mostre e il percorso artistico di Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 9,
+      "imagesForReview": [
+        {
+          "source": "../../site/assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Selected visual reference"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        }
+      ],
+      "alternates": {
+        "en": "index.html",
+        "it": "index-it.html",
+        "pl": "index-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "index-pl.html",
+      "language": "pl",
+      "title": "Halina Arte Skroban | Polska artystka w Rzymie",
+      "description": "Odkryj malarstwo, wystawy i drogę artystyczną Haliny Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 9,
+      "imagesForReview": [
+        {
+          "source": "../../site/assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Selected visual reference"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        }
+      ],
+      "alternates": {
+        "en": "index.html",
+        "it": "index-it.html",
+        "pl": "index-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "index.html",
+      "language": "en",
+      "title": "Halina Arte Skroban | Contemporary Artist in Rome",
+      "description": "Discover the paintings, exhibitions and artistic journey of Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 9,
+      "imagesForReview": [
+        {
+          "source": "../../site/assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Selected visual reference"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg",
+          "alt": "Artwork 01"
+        },
+        {
+          "source": "../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg",
+          "alt": "Artwork 02"
+        }
+      ],
+      "alternates": {
+        "en": "index.html",
+        "it": "index-it.html",
+        "pl": "index-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "press-it.html",
+      "language": "it",
+      "title": "Stampa e pubblicazioni | Halina Arte Skroban",
+      "description": "Interviste, mostre e pubblicazioni dedicate a Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 0,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "press.html",
+        "it": "press-it.html",
+        "pl": "press-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "press-pl.html",
+      "language": "pl",
+      "title": "Prasa i publikacje | Halina Arte Skroban",
+      "description": "Wywiady, relacje z wystaw i publikacje o Halinie Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 0,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "press.html",
+        "it": "press-it.html",
+        "pl": "press-pl.html"
+      },
+      "indexing": "noindex"
+    },
+    {
+      "page": "press.html",
+      "language": "en",
+      "title": "Press and Publications | Halina Arte Skroban",
+      "description": "Discover interviews, exhibition coverage and publications about Halina Skroban.",
+      "titleMissing": false,
+      "descriptionMissing": false,
+      "headings": 1,
+      "images": 0,
+      "imagesForReview": [],
+      "alternates": {
+        "en": "press.html",
+        "it": "press-it.html",
+        "pl": "press-pl.html"
+      },
+      "indexing": "noindex"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "year": 2025,
+    "publisher": "Gazzetta Italia",
+    "title": "La Sinfonia dei Colori",
+    "type": "Exhibition",
+    "language": "Italian",
+    "summary": "Coverage of the exhibition held at Palazzo Valentini in Rome.",
+    "url": "https://www.gazzettaitalia.pl/la-sinfonia-dei-colori-evento-artistico-dellanno-a-roma/",
+    "inLocalCatalogue": true
+  },
+  {
+    "year": 2025,
+    "publisher": "Polish Academy of Sciences",
+    "title": "Maria Pawlikowska-Jasnorzewska",
+    "type": "Culture",
+    "language": "Polish",
+    "summary": "A literary seminar organised in connection with the jubilee exhibition.",
+    "url": "https://rzym.pan.pl/blog/2025/11/13/seminarium-literackie-maria-pawlikowska-jasnorzewska-1891-1945-czytana-dzisiaj-patronat-literacki-2025-roku/",
+    "inLocalCatalogue": true
+  },
+  {
+    "year": 2025,
+    "publisher": "Polacy we Wloszech",
+    "title": "In conversation with Halina Skroban",
+    "type": "Interview",
+    "language": "Polish",
+    "summary": "The artist discusses her education, painting process and artistic journey.",
+    "url": "https://www.polacywewloszech.com/2025/11/03/halina-skroban-wywiad/",
+    "inLocalCatalogue": true
+  },
+  {
+    "year": 2025,
+    "publisher": "Designer Magazine",
+    "title": "Discovering the passion behind the paintings",
+    "type": "Interview",
+    "language": "Polish",
+    "summary": "An interview exploring artistic inspiration and the preparation of the jubilee exhibition.",
+    "url": "https://thedesigner.se/wystawa-symfonia-kolorow-w-rzymie-odkryj-pasje-haliny-skroban/",
+    "inLocalCatalogue": true
+  },
+  {
+    "year": 2025,
+    "publisher": "Polonijna Agencja Informacyjna",
+    "title": "Symphony of Colours",
+    "type": "Exhibition",
+    "language": "Polish",
+    "summary": "Reporting on the Rome exhibition and its accompanying cultural programme.",
+    "url": "https://www.pai.media.pl/pai_wiadomosci.php?id=41581",
+    "inLocalCatalogue": true
+  },
+  {
+    "year": 2023,
+    "publisher": "ItalyReview Magazine",
+    "title": "Roma Danza nel Blu",
+    "type": "Exhibition",
+    "language": "Italian",
+    "summary": "Coverage of the solo exhibition at Galleria Madonna dei Miracoli.",
+    "url": "https://www.italyreview.it/roma-danza-nel-blu-le-opere-di-halina-skroban-alla-galleria-madonna-dei-miracoli-a-roma/",
+    "inLocalCatalogue": true
+  },
+  {
+    "year": 2022,
+    "publisher": "Tygodnik Zamojski",
+    "title": "Malarka z Roztocza w Rzymie",
+    "type": "Culture",
+    "language": "Polish",
+    "summary": "A regional publication exploring the career of the Polish artist in Italy.",
+    "url": "https://tygodnikzamojski.pl/artykul/malarka-z-roztocza-w-n2081920",
+    "inLocalCatalogue": false
+  },
+  {
+    "year": 2022,
+    "publisher": "TVP Polonia",
+    "title": "Between Sacred and Profane",
+    "type": "Exhibition",
+    "language": "Polish",
+    "summary": "A publication presenting the exhibition dedicated to female figures.",
+    "url": "https://twojapolonia.tvp.pl/61633162/wlochy-kobiety-miedzy-sacrum-a-profanum-wystawa-prac-haliny-skroban-galeria",
+    "inLocalCatalogue": true
+  }
+]

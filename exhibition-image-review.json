@@ -1,0 +1,72 @@
+{
+  "events": [
+    {
+      "id": "2025-sinfonia",
+      "year": "2025",
+      "title": "La Sinfonia dei Colori",
+      "subtitle": "Symphony of Colours",
+      "venue": "Palazzo Valentini, Rome",
+      "prefix": "gazzetta-italia-pl-",
+      "publisher": "Gazzetta Italia",
+      "images": [
+        "gazzetta-italia-pl-34f755d485e6c7.jpg",
+        "gazzetta-italia-pl-3bdeffaa986903.jpg",
+        "gazzetta-italia-pl-b8b3eadcc1ca3a.jpg",
+        "gazzetta-italia-pl-cd79e61a6c10da.jpg",
+        "gazzetta-italia-pl-f146f42a75ac2d.jpg"
+      ],
+      "page": "exhibition-2025-sinfonia.html"
+    },
+    {
+      "id": "2023-roma",
+      "year": "2023",
+      "title": "Roma Danza nel Blu",
+      "subtitle": "Rome Dances in Blue",
+      "venue": "Galleria Madonna dei Miracoli, Rome",
+      "prefix": "italyreview-roma-2023-",
+      "publisher": "ItalyReview",
+      "images": [
+        "italyreview-roma-2023-03a7acfbb1f752.jpg",
+        "italyreview-roma-2023-701a8afd8dc439.jpg"
+      ],
+      "page": "exhibition-2023-roma.html"
+    },
+    {
+      "id": "2022-sacrum",
+      "year": "2022",
+      "title": "Donne, storia e storie tra sacrum e profanum",
+      "subtitle": "Between Sacred and Profane",
+      "venue": "Rome, Italy",
+      "prefix": "tvp-polonia-2022-",
+      "publisher": "TVP Polonia",
+      "images": [
+        "tvp-polonia-2022-0e79f033f77dea.jpg",
+        "tvp-polonia-2022-2c036f4816f4b9.jpg",
+        "tvp-polonia-2022-2c233541b2cf5e.jpg",
+        "tvp-polonia-2022-498ccfd5e9adce.jpg",
+        "tvp-polonia-2022-4b65678318f190.jpg",
+        "tvp-polonia-2022-5292b9e087470f.jpg",
+        "tvp-polonia-2022-5a8a24b4ba2526.jpg",
+        "tvp-polonia-2022-6d547726863489.jpg",
+        "tvp-polonia-2022-804bea0c785fa8.jpg",
+        "tvp-polonia-2022-9652da9eabd988.jpg",
+        "tvp-polonia-2022-98a8bd623cb1ff.jpg",
+        "tvp-polonia-2022-a91a2c3f449884.jpg",
+        "tvp-polonia-2022-b715f847199528.jpg",
+        "tvp-polonia-2022-ba09f055145946.jpg",
+        "tvp-polonia-2022-c46f82de0649b7.jpg",
+        "tvp-polonia-2022-c6fc2c0531d9e4.jpg",
+        "tvp-polonia-2022-f0a871333413cc.jpg",
+        "tvp-polonia-2022-fda38e235c89a0.jpg"
+      ],
+      "page": "exhibition-2022-sacrum.html"
+    }
+  ],
+  "unassigned": [
+    "halina-home-7adafc1d5a42a4.jpg",
+    "halina-home-f8b3e153b2b72d.jpg",
+    "pan-seminarium-2025-175d66bf963aa0.png",
+    "polonijna-agencja-informacyjna-f63d18f3bf3513.jpg"
+  ],
+  "note": "Provisional image grouping. Verify event, relevance and publication rights."
+}

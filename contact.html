@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en"><head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<title>Art Collector Enquiries | Halina Arte Skroban</title>
+
+<link rel="stylesheet" href="contact.css">
+
+<meta name="description" content="Contact information for collectors, galleries and cultural institutions."><meta property="og:title" content="Art Collector Enquiries | Halina Arte Skroban"><meta property="og:description" content="Contact information for collectors, galleries and cultural institutions."><meta property="og:type" content="website"><meta property="og:site_name" content="Halina Arte Skroban"><meta property="og:locale" content="en_GB"><meta name="robots" content="noindex"></head>
+
+<body>
+
+<header>
+
+<a class="brand" href="index.html">
+    HALINA ARTE SKROBAN
+</a>
+
+<nav>
+<a href="index.html">Home</a><a href="gallery.html">Gallery</a><a href="exhibitions.html">Exhibitions</a><a href="artist.html">The Artist</a><a href="press.html">Press</a><a href="contact.html">Contact</a>
+</nav>
+
+<div class="languages">
+
+
+<a href="contact-it.html" lang="it">
+   IT
+</a>
+
+<a href="contact-pl.html" lang="pl">
+   PL
+</a>
+
+<a href="contact.html" lang="en" aria-current="page">
+   EN
+</a>
+
+
+</div>
+
+</header>
+
+<main>
+
+<div class="intro">
+
+    <span class="eyebrow">PRIVATE ENQUIRIES</span>
+
+    <h1>Let's Connect</h1>
+
+    <p>For collectors, galleries and cultural institutions.</p>
+
+</div>
+
+<div class="contact-grid">
+
+    <section>
+
+        <h2>Art &amp; Opportunities</h2>
+
+        
+            <div class="opportunity">Artwork acquisition</div>
+        
+            <div class="opportunity">Private commission</div>
+        
+            <div class="opportunity">Exhibition invitation</div>
+        
+            <div class="opportunity">Gallery representation</div>
+        
+            <div class="opportunity">Press and interview</div>
+        
+            <div class="opportunity">General enquiry</div>
+        
+
+        <p>Roma, Italia</p>
+
+        
+
+    </section>
+
+    <form id="enquiry">
+
+        <label for="name">Your name</label>
+        <input id="name" required="" maxlength="100" autocomplete="name">
+
+        <label for="email">Email address</label>
+        <input id="email" type="email" required="" maxlength="150" autocomplete="email">
+
+        <label for="type">Type of enquiry</label>
+        <select id="type">
+            
+                <option>Artwork acquisition</option>
+            
+                <option>Private commission</option>
+            
+                <option>Exhibition invitation</option>
+            
+                <option>Gallery representation</option>
+            
+                <option>Press and interview</option>
+            
+                <option>General enquiry</option>
+            
+        </select>
+
+        <label for="message">Your message</label>
+        <textarea id="message" required="" maxlength="1200"></textarea>
+
+        <button type="submit" disabled="">
+            Prepare enquiry
+        </button>
+
+        <p class="notice">
+            Direct enquiries are not yet available.
+        </p>
+
+    </form>
+
+</div>
+
+</main>
+
+<footer>HALINA ARTE SKROBAN</footer>
+
+<script>
+
+const destination =
+    "";
+
+document.getElementById('enquiry')
+.addEventListener('submit',event=>{
+
+    event.preventDefault();
+
+    if(!destination)return;
+
+    const name=document.getElementById('name').value;
+    const email=document.getElementById('email').value;
+    const type=document.getElementById('type').value;
+    const message=document.getElementById('message').value;
+
+    const subject=encodeURIComponent(type);
+
+    const body=encodeURIComponent(
+        'Name: '+name+'\n'+
+        'Email: '+email+'\n\n'+message
+    );
+
+    window.location.href=
+        'mailto:'+destination+
+        '?subject='+subject+'&body='+body;
+
+});
+
+</script>
+
+
+</body></html>

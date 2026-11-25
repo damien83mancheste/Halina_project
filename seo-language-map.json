@@ -1,0 +1,299 @@
+[
+  {
+    "page": "artist-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "artist.html",
+      "it": "artist-it.html",
+      "pl": "artist-pl.html"
+    }
+  },
+  {
+    "page": "artist-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "artist.html",
+      "it": "artist-it.html",
+      "pl": "artist-pl.html"
+    }
+  },
+  {
+    "page": "artist.html",
+    "language": "en",
+    "alternates": {
+      "en": "artist.html",
+      "it": "artist-it.html",
+      "pl": "artist-pl.html"
+    }
+  },
+  {
+    "page": "artwork-001-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "artwork-001.html",
+      "it": "artwork-001-it.html",
+      "pl": "artwork-001-pl.html"
+    }
+  },
+  {
+    "page": "artwork-001-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "artwork-001.html",
+      "it": "artwork-001-it.html",
+      "pl": "artwork-001-pl.html"
+    }
+  },
+  {
+    "page": "artwork-001.html",
+    "language": "en",
+    "alternates": {
+      "en": "artwork-001.html",
+      "it": "artwork-001-it.html",
+      "pl": "artwork-001-pl.html"
+    }
+  },
+  {
+    "page": "artwork-002-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "artwork-002.html",
+      "it": "artwork-002-it.html",
+      "pl": "artwork-002-pl.html"
+    }
+  },
+  {
+    "page": "artwork-002-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "artwork-002.html",
+      "it": "artwork-002-it.html",
+      "pl": "artwork-002-pl.html"
+    }
+  },
+  {
+    "page": "artwork-002.html",
+    "language": "en",
+    "alternates": {
+      "en": "artwork-002.html",
+      "it": "artwork-002-it.html",
+      "pl": "artwork-002-pl.html"
+    }
+  },
+  {
+    "page": "contact-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "contact.html",
+      "it": "contact-it.html",
+      "pl": "contact-pl.html"
+    }
+  },
+  {
+    "page": "contact-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "contact.html",
+      "it": "contact-it.html",
+      "pl": "contact-pl.html"
+    }
+  },
+  {
+    "page": "contact.html",
+    "language": "en",
+    "alternates": {
+      "en": "contact.html",
+      "it": "contact-it.html",
+      "pl": "contact-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2022-sacrum-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "exhibition-2022-sacrum.html",
+      "it": "exhibition-2022-sacrum-it.html",
+      "pl": "exhibition-2022-sacrum-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2022-sacrum-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "exhibition-2022-sacrum.html",
+      "it": "exhibition-2022-sacrum-it.html",
+      "pl": "exhibition-2022-sacrum-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2022-sacrum.html",
+    "language": "en",
+    "alternates": {
+      "en": "exhibition-2022-sacrum.html",
+      "it": "exhibition-2022-sacrum-it.html",
+      "pl": "exhibition-2022-sacrum-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2023-roma-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "exhibition-2023-roma.html",
+      "it": "exhibition-2023-roma-it.html",
+      "pl": "exhibition-2023-roma-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2023-roma-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "exhibition-2023-roma.html",
+      "it": "exhibition-2023-roma-it.html",
+      "pl": "exhibition-2023-roma-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2023-roma.html",
+    "language": "en",
+    "alternates": {
+      "en": "exhibition-2023-roma.html",
+      "it": "exhibition-2023-roma-it.html",
+      "pl": "exhibition-2023-roma-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2025-sinfonia-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "exhibition-2025-sinfonia.html",
+      "it": "exhibition-2025-sinfonia-it.html",
+      "pl": "exhibition-2025-sinfonia-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2025-sinfonia-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "exhibition-2025-sinfonia.html",
+      "it": "exhibition-2025-sinfonia-it.html",
+      "pl": "exhibition-2025-sinfonia-pl.html"
+    }
+  },
+  {
+    "page": "exhibition-2025-sinfonia.html",
+    "language": "en",
+    "alternates": {
+      "en": "exhibition-2025-sinfonia.html",
+      "it": "exhibition-2025-sinfonia-it.html",
+      "pl": "exhibition-2025-sinfonia-pl.html"
+    }
+  },
+  {
+    "page": "exhibitions-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "exhibitions.html",
+      "it": "exhibitions-it.html",
+      "pl": "exhibitions-pl.html"
+    }
+  },
+  {
+    "page": "exhibitions-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "exhibitions.html",
+      "it": "exhibitions-it.html",
+      "pl": "exhibitions-pl.html"
+    }
+  },
+  {
+    "page": "exhibitions.html",
+    "language": "en",
+    "alternates": {
+      "en": "exhibitions.html",
+      "it": "exhibitions-it.html",
+      "pl": "exhibitions-pl.html"
+    }
+  },
+  {
+    "page": "gallery-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "gallery.html",
+      "it": "gallery-it.html",
+      "pl": "gallery-pl.html"
+    }
+  },
+  {
+    "page": "gallery-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "gallery.html",
+      "it": "gallery-it.html",
+      "pl": "gallery-pl.html"
+    }
+  },
+  {
+    "page": "gallery.html",
+    "language": "en",
+    "alternates": {
+      "en": "gallery.html",
+      "it": "gallery-it.html",
+      "pl": "gallery-pl.html"
+    }
+  },
+  {
+    "page": "index-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "index.html",
+      "it": "index-it.html",
+      "pl": "index-pl.html"
+    }
+  },
+  {
+    "page": "index-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "index.html",
+      "it": "index-it.html",
+      "pl": "index-pl.html"
+    }
+  },
+  {
+    "page": "index.html",
+    "language": "en",
+    "alternates": {
+      "en": "index.html",
+      "it": "index-it.html",
+      "pl": "index-pl.html"
+    }
+  },
+  {
+    "page": "press-it.html",
+    "language": "it",
+    "alternates": {
+      "en": "press.html",
+      "it": "press-it.html",
+      "pl": "press-pl.html"
+    }
+  },
+  {
+    "page": "press-pl.html",
+    "language": "pl",
+    "alternates": {
+      "en": "press.html",
+      "it": "press-it.html",
+      "pl": "press-pl.html"
+    }
+  },
+  {
+    "page": "press.html",
+    "language": "en",
+    "alternates": {
+      "en": "press.html",
+      "it": "press-it.html",
+      "pl": "press-pl.html"
+    }
+  }
+]
