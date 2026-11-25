@@ -1,5 +1,5 @@
 
-const works=[{"title":"Artwork 01","year":"","medium":"","dimensions":"","description":"","src":"../../assets/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg","page":"artwork-001.html"},{"title":"Artwork 02","year":"","medium":"","dimensions":"","description":"","src":"../../assets/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg","page":"artwork-002.html"}];
+const works=[{"title":"Artwork 01","year":"","medium":"","dimensions":"","description":"","src":"assets/original/paintings/nasz-swiat-liberte-912f2a3a4eeae0.jpg","page":"artwork-001.html"},{"title":"Artwork 02","year":"","medium":"","dimensions":"","description":"","src":"assets/original/paintings/nasz-swiat-liberte-b8c4b43770b911.jpg","page":"artwork-002.html"}];
 
 const byId=id=>document.getElementById(id);
 
